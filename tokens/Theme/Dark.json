@@ -1,0 +1,69 @@
+{
+  "color": {
+    "button": {
+      "primary": {
+        "default": {
+          "value": "{primary.500}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{neutral.800}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{neutral.800}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{neutral.500}",
+        "type": "color"
+      },
+      "placeholder": {
+        "value": "{neutral.300}",
+        "type": "color"
+      },
+      "oncolor": {
+        "value": "{base.white}",
+        "type": "color"
+      },
+      "on-color-variant": {
+        "value": "{base.white}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "default": {
+        "value": "{neutral.800}",
+        "type": "color"
+      },
+      "variant": {
+        "value": "{neutral.900}",
+        "type": "color"
+      }
+    },
+    "link": {
+      "primary": {
+        "value": "{primary.400}",
+        "type": "color"
+      }
+    }
+  },
+  "border": {
+    "field-border": {
+      "value": "{border.md}",
+      "type": "border"
+    },
+    "button-border": {
+      "value": {
+        "color": "{primary.500}",
+        "width": "1"
+      },
+      "type": "border"
+    }
+  }
+}

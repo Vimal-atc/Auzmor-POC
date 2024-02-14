@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "Global",
+    "Semantic/Auzmor-Learn",
+    "Semantic/Auzmor-Hire",
+    "Semantic/Auzmor-Office",
+    "Theme/Light",
+    "Theme/Dark",
+    "Device/Web",
+    "Device/Tab",
+    "Device/Mobile"
+  ]
+}

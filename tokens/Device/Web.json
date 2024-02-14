@@ -1,0 +1,28 @@
+{
+  "padding": {
+    "container": {
+      "form": {
+        "value": "{spacing.4xl} {spacing.4xl}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{spacing.2xl}",
+        "type": "spacing"
+      },
+      "field": {
+        "value": "{spacing.none} {spacing.none}",
+        "type": "spacing"
+      }
+    },
+    "button": {
+      "primary": {
+        "value": "{padding.container.form}",
+        "type": "spacing"
+      },
+      "secondary": {
+        "value": "{spacing.m} {spacing.m}",
+        "type": "spacing"
+      }
+    }
+  }
+}

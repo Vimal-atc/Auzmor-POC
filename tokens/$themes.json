@@ -1,0 +1,91 @@
+[
+  {
+    "id": "020b94570bc20c3561ab3ca34817c0aa19081561",
+    "name": "Learn",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Semantic/Auzmor-Learn": "enabled"
+    },
+    "group": "Auzmor"
+  },
+  {
+    "id": "b684a474a9315f7732d60b06fc3b815817edf66a",
+    "name": "Hire",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Semantic/Auzmor-Hire": "enabled"
+    },
+    "group": "Auzmor"
+  },
+  {
+    "id": "db274669cae3d015f11970b9329cdaa7fd6baf16",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Theme/Light": "enabled",
+      "Semantic/Auzmor-Learn": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "118e2fe8b503df00fff16225f3e88dfed466d2c3",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Semantic/Auzmor-Learn": "enabled",
+      "Theme/Dark": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "39fa7749923c2ddd6b2984b81329f1b384eb5976",
+    "name": "Desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Semantic/Auzmor-Learn": "enabled",
+      "Theme/Light": "enabled",
+      "Device/Web": "enabled"
+    },
+    "group": "Device"
+  },
+  {
+    "id": "051b4fdc394fff2ff51aeeb4559bdb949d5f8d12",
+    "name": "Tab",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Semantic/Auzmor-Learn": "enabled",
+      "Theme/Light": "enabled",
+      "Device/Tab": "enabled"
+    },
+    "group": "Device"
+  },
+  {
+    "id": "f486a8b7ac0f92be3d6b1fac3168ed9d19d3a995",
+    "name": "Mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Semantic/Auzmor-Learn": "enabled",
+      "Theme/Light": "enabled",
+      "Device/Mobile": "enabled"
+    },
+    "group": "Device"
+  },
+  {
+    "id": "7e921726f82ca834cc4e5a69e059a0b7b4a6a747",
+    "name": "Office",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Semantic/Auzmor-Office": "enabled",
+      "Theme/Light": "enabled"
+    },
+    "group": "Auzmor"
+  }
+]

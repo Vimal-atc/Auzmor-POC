@@ -1,0 +1,81 @@
+{
+  "color": {
+    "button": {
+      "primary": {
+        "default": {
+          "value": "{primary.500}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{base.white}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{neutral.800}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{neutral.500}",
+        "type": "color"
+      },
+      "placeholder": {
+        "value": "{neutral.300}",
+        "type": "color"
+      },
+      "oncolor": {
+        "value": "{base.white}",
+        "type": "color"
+      },
+      "on-color-variant": {
+        "value": "{primary.500}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "default": {
+        "value": "{base.white}",
+        "type": "color"
+      },
+      "variant": {
+        "value": "{neutral.50}",
+        "type": "color"
+      }
+    },
+    "link": {
+      "primary": {
+        "value": "{primary.500}",
+        "type": "color"
+      }
+    }
+  },
+  "padding": {
+    "button": {
+      "primary": {
+        "value": "{spacing.m} {spacing.m}",
+        "type": "spacing"
+      },
+      "secondary": {
+        "value": "{spacing.m} {spacing.m}",
+        "type": "spacing"
+      }
+    }
+  },
+  "border": {
+    "field-border": {
+      "value": "{border.md}",
+      "type": "border"
+    },
+    "button-border": {
+      "value": {
+        "color": "{primary.500}",
+        "width": "1"
+      },
+      "type": "border"
+    }
+  }
+}

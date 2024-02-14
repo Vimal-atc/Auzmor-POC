@@ -1,0 +1,34 @@
+{
+  "padding": {
+    "container": {
+      "form": {
+        "value": "{spacing.none} {spacing.none}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{spacing.2xl}",
+        "type": "spacing"
+      },
+      "fields": {
+        "value": "{spacing.2xl} {spacing.2xl}",
+        "type": "spacing"
+      }
+    },
+    "button": {
+      "primary": {
+        "value": "{padding.container.form}",
+        "type": "spacing"
+      },
+      "secondary": {
+        "value": "{spacing.m} {spacing.m}",
+        "type": "spacing"
+      }
+    },
+    "field": {
+      "default": {
+        "value": "{spacing.m} {spacing.m}",
+        "type": "spacing"
+      }
+    }
+  }
+}
