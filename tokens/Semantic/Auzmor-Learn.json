@@ -106,7 +106,7 @@
   "space": {
     "container": {
       "lg": {
-        "value": "{spacing.6xl}",
+        "value": "{spacing.4xl}",
         "type": "spacing"
       },
       "xs": {
@@ -184,7 +184,7 @@
     },
     "link-text": {
       "link-visibility": {
-        "value": "false",
+        "value": "true",
         "type": "boolean"
       },
       "footer-link-text-Visibility": {
@@ -194,7 +194,7 @@
     },
     "cta": {
       "secondary-cta-visibility": {
-        "value": "true",
+        "value": "false",
         "type": "boolean"
       }
     }

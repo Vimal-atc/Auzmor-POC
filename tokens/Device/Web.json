@@ -16,7 +16,7 @@
     },
     "button": {
       "primary": {
-        "value": "{padding.container.form}",
+        "value": "{spacing.m} {spacing.m}",
         "type": "spacing"
       },
       "secondary": {

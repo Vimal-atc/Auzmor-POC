@@ -63,7 +63,7 @@
   },
   "border-radius": {
     "button": {
-      "value": "{radius.full}",
+      "value": "{radius.xsm}",
       "type": "borderRadius"
     },
     "field": {

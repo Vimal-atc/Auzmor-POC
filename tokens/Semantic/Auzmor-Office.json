@@ -60,7 +60,7 @@
   "space": {
     "container": {
       "lg": {
-        "value": "{spacing.6xl}",
+        "value": "{spacing.3xl}",
         "type": "spacing"
       },
       "xs": {
@@ -141,7 +141,7 @@
         "type": "boolean"
       },
       "footer-link-text-Visibility": {
-        "value": "true",
+        "value": "false",
         "type": "boolean"
       }
     },
